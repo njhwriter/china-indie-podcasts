@@ -1,0 +1,18 @@
+{
+  "name": "浙江谈天",
+  "description": "四金刚腾云，悬空八只脚",
+  "author": "N",
+  "color": "#000000",
+  "logo": "https://i.typlog.com/zjrtt/8398036405_032397.png?x-oss-process=style/ss",
+  "url": "https://zjrtt.typlog.io",
+  "feed": "https://zjrtt.typlog.io/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/us/podcast/浙江谈天/id1534351040",
+  "google": "https://www.google.com/podcasts?feed=aHR0cHM6Ly96anJ0dC50eXBsb2cuaW8vZXBpc29kZXMvZmVlZC54bWw%3D",
+  "spotify": "https://open.spotify.com/show/6BrL34E48C5lGkFLoKdXzK",
+  "overcast": "https://overcast.fm/itunes1534351040",
+  "pcast": "https://pca.st/7oy57akx",
+  "castro": null,
+  "breaker": null,
+  "typlog": true
+  "blocked": false
+}
